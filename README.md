@@ -1,5 +1,7 @@
 # Omni-AutoThink
 
+paper: https://arxiv.org/pdf/2512.03783
+
 ## Introduction 
 Recent advances in Omni models have enabled unified multimodal perception and generation. However, most existing systems still exhibit rigid reasoning behaviors—either overthinking simple problems or failing to reason when necessary.
 To address this limitation, we propose Omni-AutoThink, a novel adaptive reasoning framework that dynamically adjusts the model’s reasoning depth according to task difficulty.
